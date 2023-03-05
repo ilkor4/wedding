@@ -1,0 +1,10 @@
+.table__cell {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #943E41;
+  background-color: black;
+}
+
+.table__cell:last-of-type {
+  border-bottom: none;
+}

@@ -1,0 +1,9 @@
+.table__text {
+  color: white;
+  font-weight: 400;
+  line-height: 1.4;
+  font-family: 'Inter';
+  font-size: 14px;
+  max-width: 100%;
+  letter-spacing: 1px;
+}

@@ -1,0 +1,10 @@
+.table__title {
+  color: #943E41;
+  font-weight: 400;
+  line-height: 1.21;
+  font-family: 'Leo';
+  font-size: 16px;
+  text-transform: uppercase;
+  max-width: 100%;
+  letter-spacing: 0.5px;
+}
