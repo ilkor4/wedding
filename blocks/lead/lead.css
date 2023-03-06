@@ -8,5 +8,6 @@
   background-position: center;
   background-repeat: no-repeat;
   height: 90vh;
+  min-width: 300px;
   width: 100%;
 }

@@ -1,0 +1,10 @@
+.programms__time {
+  margin: 0;
+  color: black;
+  font-weight: 400;
+  line-height: 1.21;
+  font-family: 'Leo';
+  font-size: 26px;
+  max-width: 100%;
+  letter-spacing: 2.5px;
+}

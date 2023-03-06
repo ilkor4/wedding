@@ -1,11 +1,11 @@
-.quote__title {
-  margin: 30px 0 30px;
+.section-title {
+  margin: 0;
   text-transform: uppercase;
   color: #943E41;
   font-weight: 400;
   line-height: 1.21;
-  font-family: 'Inter';
-  font-size: 16px;
+  font-family: 'Leo';
+  font-size: 22px;
   max-width: 100%;
-  letter-spacing: 1px;
+  letter-spacing: 2.5px;
 }
