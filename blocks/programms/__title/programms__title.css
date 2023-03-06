@@ -1,10 +1,11 @@
 .programms__title {
-  margin: 10px 0;;
+  margin: 7px 0;;
   color: #943E41;
   font-weight: 400;
   line-height: 1.7;
   font-family: 'Inter';
-  font-size: 22px;
+  font-size: 16px;
   max-width: 100%;
   letter-spacing: 0.5px;
+  text-transform: uppercase;
 }

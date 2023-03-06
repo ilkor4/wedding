@@ -1,5 +1,14 @@
 .section-line {
-  min-height: 100%;
-  width: 7px;
-  background-color: #943E41;
+  margin: 10px 0 0;
+  min-width: 10px;
+  background-image: url(../../images/line.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  max-height: calc(100% - 300px);
+}
+
+@media screen and (max-width: 399px) {
+  .section-line {
+  background-image: url(../../images/lineMini.svg);
+  }
 }
