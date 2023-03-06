@@ -1,0 +1,5 @@
+.place__image {
+  margin: 0 0 50px;
+  width: 320px;
+  object-fit: cover;
+}

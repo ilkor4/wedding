@@ -33,5 +33,8 @@
 @import url(../blocks/programms/__title/programms__title.css);
 @import url(../blocks/programms/__text/programms__text.css);
 
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__image/place__image.css);
+
 
 @import url(../blocks/footer/footer.css);
