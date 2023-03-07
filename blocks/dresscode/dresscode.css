@@ -1,10 +1,9 @@
 .dresscode {
-  padding: 70px 0;
+  padding: 60px 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   text-align: center;
-
   max-width: 100%;
   background-image: url(../../images/dresscode.jpeg);
   background-size: cover;
