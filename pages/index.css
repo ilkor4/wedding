@@ -41,6 +41,11 @@
 @import url(../blocks/dresscode/__text-container/dresscode__text-container.css);
 @import url(../blocks/dresscode/__text/dresscode__text.css);
 
+@import url(../blocks/colors/colors.css);
+@import url(../blocks/colours/colours.css);
+@import url(../blocks/colours/__colour/colours__colour.css);
+@import url(../blocks/colors/__caption/colors__caption.css);
+
 
 
 @import url(../blocks/footer/footer.css);
