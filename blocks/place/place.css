@@ -1,8 +1,9 @@
 .place {
+  padding-bottom: 50px;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 20px;
+  gap: 40px;
   background: linear-gradient(#800000 -100%, white 40%, white);
 }
