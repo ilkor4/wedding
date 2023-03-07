@@ -1,0 +1,8 @@
+.dresscode__container {
+  padding: 70px 0;
+  box-sizing: border-box;
+  background-color: white;
+  min-height: 600px;
+  width: 80%;
+  border-radius: 15px;
+}
