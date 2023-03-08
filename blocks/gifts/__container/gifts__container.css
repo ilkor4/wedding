@@ -1,0 +1,8 @@
+.gifts__container {
+  padding: 40px 20px;
+  box-sizing: border-box;
+  background-color: white;
+  min-height: 400px;
+  width: 40%;
+  border-radius: 15px;
+}

@@ -1,0 +1,13 @@
+.gifts {
+  padding: 60px 10px 60px 0;
+  display: flex;
+  flex-direction: column;
+  align-items:flex-end ;
+  text-align: center;
+  max-width: 100%;
+  background-image: url(../../images/gifts.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  justify-content: center;
+}
