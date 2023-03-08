@@ -1,0 +1,12 @@
+.contacts__link {
+  margin: 0;
+  color: black;
+  font-weight: 400;
+  line-height: 1.7;
+  font-family: 'Inter';
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  align-self: flex-start;
+  display: flex;
+}

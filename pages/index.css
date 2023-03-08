@@ -53,3 +53,13 @@
 
 
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/organizer/organizer.css);
+@import url(../blocks/organizer/__image/organizer__image.css);
+@import url(../blocks/organizer/__title/organizer__title.css);
+@import url(../blocks/organizer/__subtitle/organizer__subtitle.css);
+@import url(../blocks/line/line.css);
+@import url(../blocks/contacts/contacts.css);
+@import url(../blocks/contacts/__text/contacts__text.css);
+@import url(../blocks/contacts/__link/contacts__link.css);
+@import url(../blocks/contacts/__icon/contacts__icon.css);
+@import url(../blocks/contacts/__phone-link/contacts__phone-link.css);

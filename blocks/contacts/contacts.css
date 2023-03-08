@@ -1,0 +1,8 @@
+.contacts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  max-width: 80%;
+  gap: 20px;
+}

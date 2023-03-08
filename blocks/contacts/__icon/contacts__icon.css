@@ -1,0 +1,10 @@
+.contacts__icon {
+  margin-left: 10px;
+  width: 30px;
+  height: 30px;
+  background-image: url(../../../images/whatsapp.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  align-self: center;
+}
