@@ -63,3 +63,6 @@
 @import url(../blocks/contacts/__link/contacts__link.css);
 @import url(../blocks/contacts/__icon/contacts__icon.css);
 @import url(../blocks/contacts/__phone-link/contacts__phone-link.css);
+@import url(../blocks/line/_type/line_type_right.css);
+
+@import url(../blocks/map/map.css);

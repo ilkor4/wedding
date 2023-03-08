@@ -9,4 +9,9 @@
   text-decoration: none;
   align-self: flex-start;
   display: flex;
+  transition: ease .6s;
+}
+
+.contacts__link:hover {
+  opacity: .5;
 }

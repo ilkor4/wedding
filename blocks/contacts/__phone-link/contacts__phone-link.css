@@ -10,4 +10,9 @@
   letter-spacing: 2.5px;
   text-decoration: none;
   align-self: flex-start;
+  transition: ease .6s;
+}
+
+.contacts__phone-link:hover {
+  opacity: .5;
 }
