@@ -1,9 +1,9 @@
 .table__cell {
   width: 100%;
+  min-height: 100px;
   text-align: center;
   border-bottom: 1px solid #943E41;
   background-color: black;
-  min-height: 100px;
 }
 
 .table__cell:last-of-type {

@@ -1,13 +1,13 @@
 .contacts__phone-link {
   margin: 0;
-  text-transform: uppercase;
+  max-width: 100%;
   color: #943E41;
   font-weight: 400;
-  line-height: 1.21;
-  font-family: 'Leo';
+  font-family: 'Leo', 'Inter', Arial, Helvetica;
   font-size: 22px;
-  max-width: 100%;
   letter-spacing: 2.5px;
+  line-height: 1.21;
+  text-transform: uppercase;
   text-decoration: none;
   align-self: flex-start;
   transition: ease .6s;

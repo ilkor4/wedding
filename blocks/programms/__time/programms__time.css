@@ -1,10 +1,10 @@
 .programms__time {
   margin: 0;
+  max-width: 100%;
   color: black;
   font-weight: 400;
-  line-height: 1.21;
-  font-family: 'Leo';
+  font-family: 'Leo', 'Inter', Arial, Helvetica;
   font-size: 26px;
-  max-width: 100%;
+  line-height: 1.21;
   letter-spacing: 2.5px;
 }

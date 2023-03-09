@@ -1,68 +1,68 @@
+/* Подключил  вендоры */
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
-
+/* Подключил обертку и страницу */
 @import url(../blocks/wrapper/wrapper.css);
 @import url(../blocks/page/page.css);
-
+/* Подключил хедер и лид */
 @import url(../blocks/header/header.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
-
+/* Подключил контент */
 @import url(../blocks/content/content.css);
-
+/* Подключил секцию об и цитату  */
 @import url(../blocks/about/about.css);
 @import url(../blocks/quote/quote.css);
 @import url(../blocks/quote/__strip/quote__strip.css);
 @import url(../blocks/quote/__text/quote__text.css);
 @import url(../blocks/quote/__title/quote__title.css);
-
+/* Подключил секцию таблица */
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__title/table__title.css);
 @import url(../blocks/table/__text/table__text.css);
-
+/* Подключил секцию расписание и программу */
 @import url(../blocks/time-table/time-table.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-wrapper/section-wrapper.css);
 @import url(../blocks/section-line/section-line.css);
 @import url(../blocks/programms/programms.css);
-@import url(../blocks/programms/__programm/programms__programm.css);
 @import url(../blocks/programms/__time/programms__time.css);
 @import url(../blocks/programms/__title/programms__title.css);
 @import url(../blocks/programms/__text/programms__text.css);
-
+/* Подключил секцию место */
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__image/place__image.css);
-
+/* Подключил секцию дресс-кода */
 @import url(../blocks/dresscode/dresscode.css);
 @import url(../blocks/dresscode/__container/dresscode__container.css);
 @import url(../blocks/dresscode/__text-container/dresscode__text-container.css);
 @import url(../blocks/dresscode/__text/dresscode__text.css);
-
+/* Подключил  секцию цвета */
 @import url(../blocks/colors/colors.css);
 @import url(../blocks/colours/colours.css);
 @import url(../blocks/colours/__colour/colours__colour.css);
 @import url(../blocks/colors/__caption/colors__caption.css);
-
+/* Подключил  секцию подарки */
 @import url(../blocks/gifts/gifts.css);
 @import url(../blocks/gifts/__container/gifts__container.css);
 @import url(../blocks/gifts/__text/gifts__text.css);
-
-
-
+/* Подключил футер*/
 @import url(../blocks/footer/footer.css);
+/* Подключил секцию организатор */
 @import url(../blocks/organizer/organizer.css);
 @import url(../blocks/organizer/__image/organizer__image.css);
 @import url(../blocks/organizer/__title/organizer__title.css);
 @import url(../blocks/organizer/__subtitle/organizer__subtitle.css);
 @import url(../blocks/line/line.css);
+/* Подключил секцию контакты */
 @import url(../blocks/contacts/contacts.css);
 @import url(../blocks/contacts/__text/contacts__text.css);
 @import url(../blocks/contacts/__link/contacts__link.css);
 @import url(../blocks/contacts/__icon/contacts__icon.css);
 @import url(../blocks/contacts/__phone-link/contacts__phone-link.css);
 @import url(../blocks/line/_type/line_type_right.css);
-
+/* Подключил  секцию карта */
 @import url(../blocks/map/map.css);

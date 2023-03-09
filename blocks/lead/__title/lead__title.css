@@ -1,11 +1,11 @@
 .lead__title{
   margin: 0;
+  max-width: 320px;
   text-align: center;
   color: #943E41;
   font-weight: 400;
-  line-height: 1.21;
-  font-family: 'Leo';
+  font-family: 'Leo', 'Inter', Arial, Helvetica;
   font-size: 34px;
+  line-height: 1.21;
   letter-spacing: 2px;
-  max-width: 320px;
 }

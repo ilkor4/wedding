@@ -1,22 +1,9 @@
 @font-face {
   font-family: 'Leo';
-  src: url('LeoHand.woff2') format('woff2'),
-       url('LeoHand.woff') format('woff');
   font-weight: 500;
   font-style: normal;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialised;
-}
-
-@font-face {
-  font-family: 'Lato';
-  font-style:  normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url("Lato-Regular.ttf") format("ttf");
+  src: url('LeoHand.woff2') format('woff2'),
+       url('LeoHand.woff') format('woff');
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
